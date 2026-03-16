@@ -37,15 +37,20 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
-
+![image]( https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-4/d7eac5d090c3993ba390e06b66b1168c10d83af6/4.1.png)
 Bridge rectifier with filter:
-
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-4/d7eac5d090c3993ba390e06b66b1168c10d83af6/4.2.png)
 TABULAR COLUMN
 Rectifier without filter
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-4/d7eac5d090c3993ba390e06b66b1168c10d83af6/4.3.jpeg
+)
 TABULAR COLUMN
-Rectifier with filter
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-4/d7eac5d090c3993ba390e06b66b1168c10d83af6/4.4.jpeg)
 
+Rectifier with filter
 WAVEFORM:
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-4/d7eac5d090c3993ba390e06b66b1168c10d83af6/4.5.jpeg)
+
 
 
 RESULT:
